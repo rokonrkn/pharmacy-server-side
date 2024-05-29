@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Hand Sanitizer",
+      "image": "https://i.ibb.co/b24ZvJw/11.png",
+      "rating": 4.5,
+      "price": 1000,
+      "priceOff": 1000
+    },
+    {
+      "id": 2,
+      "name": "Moderna's Vaccine",
+      "image": "https://i.ibb.co/gw976PN/12.png",
+      "rating": 4.0,
+      "price": 1500,
+      "priceOff": 1500
+    },
+    {
+      "id": 3,
+      "name": "Water pik Toothbrush",
+      "image": "https://i.ibb.co/vwXLSpj/13.png",
+      "rating": 3.5,
+      "price": 2000,
+      "priceOff": 2000
+    },
+    {
+      "id": 4,
+      "name": "White 3d Mask N95",
+      "image": "https://i.ibb.co/fG4GhW7/14.png",
+      "rating": 5.0,
+      "price": 2500,
+      "priceOff": 2500
+    },
+    {
+      "id": 5,
+      "name": "Blood Pressure",
+      "image": "https://i.ibb.co/pZtsCz5/15.png",
+      "rating": 4.2,
+      "price": 3000,
+      "priceOff": 3000
+    },
+    {
+      "id": 6,
+      "name": "Hand Gloves",
+      "image": "https://i.ibb.co/30sCjK8/16-1.png",
+      "rating": 4.8,
+      "price": 3500,
+      "priceOff": 3500
+    },
+    {
+      "id": 7,
+      "name": "Medical Apron",
+      "image": "https://i.ibb.co/FY7f6Z0/17.png",
+      "rating": 4.1,
+      "price": 4000,
+      "priceOff": 4000
+    },
+    {
+      "id": 8,
+      "name": "Doctor Stethoscope",
+      "image": "https://i.ibb.co/7nwyyhw/18.png",
+      "rating": 3.9,
+      "price": 4500,
+      "priceOff": 4500
+    },
+    {
+      "id": 9,
+      "name": "Body Temperature",
+      "image": "https://i.ibb.co/y6b8STm/19.png",
+      "rating": 4.6,
+      "price": 5000,
+      "priceOff": 5000
+    },
+    {
+      "id": 10,
+      "name": "Mesh Nebulizer",
+      "image": "https://i.ibb.co/s3RJZ9n/20.png",
+      "rating": 4.4,
+      "price": 5500,
+      "priceOff": 5500
+    },
+    {
+      "id": 11,
+      "name": "Medicine",
+      "image": "https://i.ibb.co/dDyLcZq/21-1.png",
+      "rating": 4.7,
+      "price": 6000,
+      "priceOff": 6000
+    },
+    {
+      "id": 12,
+      "name": "Best Toothbrush",
+      "image": "https://i.ibb.co/JySSbTt/22-1.png",
+      "rating": 4.3,
+      "price": 6500,
+      "priceOff": 6500
+    },
+    {
+      "id": 13,
+      "name": "Product 13",
+      "image": "https://example.com/image13.jpg",
+      "rating": 4.9,
+      "price": 7000,
+      "priceOff": 7000
+    },
+    {
+      "id": 14,
+      "name": "Product 14",
+      "image": "https://example.com/image14.jpg",
+      "rating": 3.8,
+      "price": 7500,
+      "priceOff": 7500
+    },
+    {
+      "id": 15,
+      "name": "Product 15",
+      "image": "https://example.com/image15.jpg",
+      "rating": 4.0,
+      "price": 8000,
+      "priceOff": 8000
+    },
+    {
+      "id": 16,
+      "name": "Product 16",
+      "image": "https://example.com/image16.jpg",
+      "rating": 4.5,
+      "price": 8500,
+      "priceOff": 8500
+    },
+    {
+      "id": 17,
+      "name": "Product 17",
+      "image": "https://example.com/image17.jpg",
+      "rating": 4.1,
+      "price": 9000,
+      "priceOff": 9000
+    },
+    {
+      "id": 18,
+      "name": "Product 18",
+      "image": "https://example.com/image18.jpg",
+      "rating": 4.6,
+      "price": 9500,
+      "priceOff": 9500
+    },
+    {
+      "id": 19,
+      "name": "Product 19",
+      "image": "https://example.com/image19.jpg",
+      "rating": 4.7,
+      "price": 1000,
+      "priceOff": 10000
+    },
+    {
+      "id": 20,
+      "name": "Product 20",
+      "image": "https://example.com/image20.jpg",
+      "rating": 4.2,
+      "price": 1050,
+      "priceOff": 10500
+    }
+  ]
+  
